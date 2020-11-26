@@ -1,0 +1,23 @@
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <Folder>
+      <name>Try</name>
+      <Placemark>
+        <Style>
+          <IconStyle>
+            <Icon>
+              <href>LN.jpg</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <name>蜡笔小新</name><Snippet/>
+        <description>
+          <![CDATA[<p>xixi 要和你一样做个真诚的小孩呀！</p><p>拍摄时间:你猜</p><p>照片文件名：LN.jpg</p><img src="LN.jpg" width="300" alt="必须将此kml文件与照片放在同一个文件夹中才可正常显示图片"> ]]>
+        </description>
+        <Point>
+          <coordinates>112.954944838185,28.1708049960334,14</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
